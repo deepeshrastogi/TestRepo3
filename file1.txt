@@ -1,15 +1,6 @@
-<<<<<<< HEAD
-Hi
-Bassu Rastogi
-I Love You
-And
-WHo Is
-Deepesh
-test
-sdfdsf
-=======
 Hi every one my name is deepesh
 dfkldjfdsj
 sdfkjdskf
 sdfdsflfj
->>>>>>> b
+fsdfsd
+sdfdsf
